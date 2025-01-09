@@ -41,12 +41,13 @@ Built using Visual Studio Code and Python 3.8.5. game.json was created in Twine 
 
 ## References
 
-None
+Past experience in Social Work
 
 ## Future Development
 
-None
+Continue to add story lines
+Create a seperation between real life and the storys portrayed
 
 ## Created by
 
-Jason Francis
+Jason Francis & Mark Ribaudo
